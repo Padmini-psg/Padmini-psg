@@ -7,21 +7,20 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/EDUCATION-B.E.%20ECE-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COLLEGE-PSG%20Tech-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-VLSI%20%7C%20Embedded%20%7C%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="www.linkedin.com/in/padmini-p-568035325">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/padmini-p-568035325" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:minipalanisamy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Padmini-psg">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
